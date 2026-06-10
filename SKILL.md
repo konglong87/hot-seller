@@ -1,5 +1,5 @@
 ---
-name: hot-seller-pack
+name: hot-seller
 version: 1.1.0
 description: |
   让产品大卖特卖·销售大师技能包。
@@ -117,7 +117,7 @@ description: |
 ## 技能包结构
 
 ```
-hot-seller-pack/                    ← 你现在在这里
+hot-seller/                        ← 你现在在这里
 ├── SKILL.md                        ← 本文件：入口 + 选人指南
 ├── lei-jun-perspective/            ← 雷军子技能
 │   ├── SKILL.md                    ←    6个心智模型 + 8条启发式 + 表达DNA + 完整案例
