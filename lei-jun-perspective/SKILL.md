@@ -515,6 +515,3 @@ description: |
 - 二手来源 8篇：36氪/极客公园深度分析、行业拆解报告
 - 信息截止：2026年6月10日
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：花叔 @ 女娲
-

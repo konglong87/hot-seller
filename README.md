@@ -48,4 +48,4 @@ v1.1.0
 
 ## 致谢
 
-本技能包由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 方法论生成，创建者：花叔 @ 女娲
+huashu

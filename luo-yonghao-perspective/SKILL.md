@@ -595,5 +595,3 @@ description: |
 - 二手来源 9篇：36氪/搜狐/界面深度分析、行业评论
 - 信息截止：2026年6月10日
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：花叔 @ 女娲
