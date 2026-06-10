@@ -45,13 +45,11 @@ hot-seller/
 将技能包克隆到 Claude Code 的 skills 目录：
 
 ```bash
-# 项目级安装（仅当前项目可用）
-mkdir -p .claude/skills
-git clone git@github.com:konglong87/hot-seller.git .claude/skills/hot-seller
 
-# 或全局安装（所有项目可用）
+# 全局安装（所有项目和agent都可用）
 mkdir -p ~/.claude/skills
 git clone git@github.com:konglong87/hot-seller.git ~/.claude/skills/hot-seller
+
 ```
 
 安装后，在 Claude Code 中输入 `/hot-seller` 即可调用，或当你的提问涉及销售、定价、带货等触发词时自动激活。
